@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bedroom_mess.jpg</file>
+        <file>bedroom_dark.jpg</file>
+        <file>bedroom_neat.jpg</file>
+        <file>kitchen_close.jpg</file>
+        <file>kitchen_open.jpg</file>
+        <file>kitchen_open_with.jpg</file>
+        <file>livingroom.jpg</file>
+        <file>start.jpg</file>
+        <file>item_paper.png</file>
+        <file>agenda.png</file>
+        <file>chicken.png</file>
+        <file>bedroom.mp3</file>
+        <file>clock.mp3</file>
+        <file>get_item.mp3</file>
+        <file>kitchen.mp3</file>
+        <file>livingroom.mp3</file>
+        <file>start.mp3</file>
+        <file>end.jpg</file>
+        <file>character.png</file>
+        <file>game_2048.mp3</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qt picgr/7-140429214234123.png</file>
+        <file>qt picgr/111.png</file>
+        <file>qt picgr/112.png</file>
+        <file>qt picgr/113.png</file>
+        <file>qt picgr/114.png</file>
+        <file>qt picgr/115.png</file>
+        <file>qt picgr/116.png</file>
+        <file>qt picgr/117.png</file>
+        <file>qt picgr/118.png</file>
+        <file>qt picgr/119.png</file>
+        <file>qt picgr/120.png</file>
+        <file>qt picgr/121.png</file>
+        <file>qt picgr/122.png</file>
+        <file>qt picgr/OIPP.jpg</file>
+        <file>qt picgr/firstclickpic.wav</file>
+        <file>qt picgr/secondclickpic.wav</file>
+        <file>qt picgr/wrongmove.wav</file>
+        <file>qt picgr/backgroundmusic.mp3</file>
+        <file>qt picgr/jc2dc-7lyds.wav</file>
+        <file>qt picgr/bgm.wav</file>
+    </qresource>
+</RCC>
