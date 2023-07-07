@@ -1,25 +1,25 @@
 <RCC>
-    <qresource prefix="/images">
-        <file>bedroom_mess.jpg</file>
-        <file>bedroom_dark.jpg</file>
-        <file>bedroom_neat.jpg</file>
-        <file>kitchen_close.jpg</file>
-        <file>kitchen_open.jpg</file>
-        <file>kitchen_open_with.jpg</file>
-        <file>livingroom.jpg</file>
-        <file>start.jpg</file>
-        <file>item_paper.png</file>
-        <file>agenda.png</file>
-        <file>chicken.png</file>
-        <file>bedroom.mp3</file>
-        <file>clock.mp3</file>
-        <file>get_item.mp3</file>
-        <file>kitchen.mp3</file>
-        <file>livingroom.mp3</file>
-        <file>start.mp3</file>
-        <file>end.jpg</file>
-        <file>character.png</file>
-        <file>game_2048.mp3</file>
+    <qresource prefix="/">
+        <file>images/livingroom.mp3</file>
+        <file>images/agenda.png</file>
+        <file>images/bedroom.mp3</file>
+        <file>images/bedroom_dark.jpg</file>
+        <file>images/bedroom_mess.jpg</file>
+        <file>images/bedroom_neat.jpg</file>
+        <file>images/character.jpg</file>
+        <file>images/character.png</file>
+        <file>images/chicken.png</file>
+        <file>images/clock.mp3</file>
+        <file>images/end.jpg</file>
+        <file>images/game_2048.mp3</file>
+        <file>images/get_item.mp3</file>
+        <file>images/item_paper.png</file>
+        <file>images/kitchen.mp3</file>
+        <file>images/kitchen_close.jpg</file>
+        <file>images/kitchen_open.jpg</file>
+        <file>images/kitchen_open_with.jpg</file>
+        <file>images/livingroom.jpg</file>
+        <file>images/start.jpg</file>
+        <file>images/start.mp3</file>
     </qresource>
-    <qresource prefix="/"/>
 </RCC>

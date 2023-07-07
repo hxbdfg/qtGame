@@ -118,7 +118,6 @@ void Scene::checkInput(const QString &text)
         game->textDisplayer->displayText("你正准备打开ai引论lab");
         game->textDisplayer->displayText("突然看到了桌面上一个熟悉的图标");
         game->textDisplayer->displayText("于是——⚪神，启动！");
-        game->in_bedscene3 = false;
         QTimer::singleShot(10000, game, &Game::end);
     } else {
         game->textDisplayer->displayText("坏，密码忘了...");
